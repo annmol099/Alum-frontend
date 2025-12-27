@@ -1,0 +1,35 @@
+footer {
+  background: #0f2027;
+  color: #fff;
+  padding: 40px 10%;
+  text-align: center;
+}
+
+footer h3 {
+  margin: 0 0 15px 0;
+  font-size: 1.5rem;
+}
+
+footer p {
+  opacity: 0.8;
+  margin: 10px 0;
+  font-size: 0.9rem;
+}
+
+footer p:last-child {
+  margin-bottom: 0;
+}
+
+@media(max-width: 768px) {
+  footer {
+    padding: 30px 5%;
+  }
+
+  footer h3 {
+    font-size: 1.2rem;
+  }
+
+  footer p {
+    font-size: 0.85rem;
+  }
+}
