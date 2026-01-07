@@ -10,7 +10,7 @@ A modern, responsive React website for SL Origin, showcasing India's first alum-
 
 ## 🎯 About SL Origin
 
-SL Origin is a skincare brand founded by **Hardik Gautam & Pankaj Kumar Rai** with a mission to revolutionize personal care through natural, science-backed products.
+SL Origin is a skincare brand founded by **Hardik Gautam & Pankaj Kumar Rai** that deals in natural-based personal care and skincare products. Our flagship product is an **alum-based natural deodorant** - India's first of its kind. Our mission is to revolutionize personal care through natural, science-backed products.
 
 ### Key Features:
 - ✨ **100% Natural Formula** - Pure alum base without harsh chemicals
@@ -63,16 +63,32 @@ hardik-sl/
 
 ## 🎨 Design Features
 
+### Visual Philosophy
+The website features a **soft and living aesthetic** that creates an immersive, interactive experience:
+- **Parallax Scrolling Effects** - Elements move at different speeds as you scroll, creating depth
+- **Interactive Animations** - Objects respond to user scrolling (bubbles, leaves, nature elements float)
+- **Smooth Motion** - The website feels alive and fluid, like natural elements moving in water or air
+- **Ocean-Inspired Theme** - Soft, flowing transitions and bubble effects that create a calming, nature-driven experience
+
 ### Color Palette
 - **Primary Green:** `#22c55e` - Trust, Nature, Growth
 - **Primary Blue:** `#0084ff` - Action, Clarity
 - **Dark:** `#1a1a2e`, `#16213e` - Professional
 - **Light:** `#ffffff`, `#f8f9fa` - Clean
 
+### Gradient Colors
+- **Ocean-to-Green Gradient:** `linear-gradient(135deg, #0084ff 0%, #22c55e 100%)` - Fresh, natural, calming
+- **Soft Nature Gradient:** `linear-gradient(180deg, #22c55e 0%, #06b6d4 100%)` - Green to cyan for soft transitions
+- **Peaceful Sky Gradient:** `linear-gradient(135deg, #e0f2fe 0%, #dcfce7 100%)` - Light blue to soft green
+- **Dark Theme Gradient:** `linear-gradient(180deg, #0f172a 0%, #1a1a2e 100%)` - Subtle dark transitions
+- **Accent Gradient:** `linear-gradient(90deg, #0084ff 0%, #22c55e 50%, #06b6d4 100%)` - Multi-color smooth flow
+
 ### Animations
 - Smooth transitions (0.3s - 0.8s)
-- Parallax effects
-- Fade-in, slide animations
+- **Parallax effects** - Background layers move independently on scroll
+- **Floating animations** - Elements drift and float naturally
+- **Fade-in animations** - Smooth entrance as you scroll to sections
+- **Bubble effects** - Floating particles that respond to scroll position
 - Hover effects on CTAs
 - Pulse & float effects
 
